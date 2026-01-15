@@ -1,12 +1,14 @@
 Shopping Cart DOM Project
 This is a simple, interactive shopping cart project built using HTML, CSS, and JavaScript DOM manipulation.
 
+
 Features
 ✅ Increase item quantity using the "+" button.
 ✅ Decrease item quantity using the "−" button (quantity cannot go below 0).
 ✅ Delete items from the cart using the trash icon.
 ✅ Like items using the heart icon (toggles color).
 ✅ Real-time total price update based on cart changes.
+
 
 
 
