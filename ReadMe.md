@@ -1,4 +1,4 @@
-Shopping Cart DOM Project
+## Shopping Cart DOM Project
 This is a simple, interactive shopping cart project built using HTML, CSS, and JavaScript DOM manipulation.
 
 
@@ -22,39 +22,31 @@ DOM PROJECT1/
 └── js/
     └── script.js    # JavaScript file for functionality
 
-Technologies Used
-HTML5
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript (DOM Events)
+- Bootstrap 5
+- Font Awesome Icons
 
-CSS3
+## How to Use
+- Open index.html in your browser.
+- Click the "+" or "−" icons to update the quantity.
+- Click the trash icon to delete a product.
+- Click the heart icon to like an item.
+- The total price will automatically update based on your actions.
+  
+## Installation
+- Clone the repository
+- git clone https://github.com/aboodjsa/DOM-project1.git
+- Open the project in your browser
+- You can simply open the index.html file directly.
 
-JavaScript (DOM Events)
-
-Bootstrap 5
-
-Font Awesome Icons
-
-How to Use
-Open index.html in your browser.
-
-Click the "+" or "−" icons to update the quantity.
-
-Click the trash icon to delete a product.
-
-Click the heart icon to like an item.
-
-The total price will automatically update based on your actions.
-
-Installation
-# Clone the repository
-git clone https://github.com/aboodjsa/DOM-project1.git
-# Open the project in your browser
-# You can simply open the index.html file directly.
-
-Contribution
+### Contribution
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-License
+### License
 This project is open-source and free to use.
 
-Live Demo
+### Live Demo
 Coming soon if deployed.
